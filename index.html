@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Words Games</title>
+ 
+    <!-- Added a link to Bootstrap-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+
+
+</head>
+
+<body style="background-color:black;">
+
+    <div class="container">
+        <div class="row no-gutters">
+            <img src="assets/images/pichome3.jpg">
+        </div>
+        </br>
+        <div class="row mt-5" style="height: 320px ">
+            <div class="col-lg-5 border border-white">
+                <iframe width="350" height="350" id="myVideo" src="" frameborder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen style="margin-left: 50px"></iframe>
+            </div>
+            <div class="col-lg-2">
+            </div>
+            <div class="col-lg-5 border border-white rounded">
+                </br>
+                <div class="row">
+                    <button onclick="myLetter()" style="margin-left: 150px;"> Click Start Guessing a Word</button>
+                </div>
+                </br>
+                <div class="row">
+                    <form>
+                        <input type="text" id="letter" style="margin-left: 120px;">
+                        <input type="button" value="guess letter" onclick="myFunction()">
+                    </form>
+                </div>
+                </br>
+                <div class="row">
+                    <p class="text-center" style="color:yellow;margin-left: 210px;">Wins</p>
+                </div>
+                <div class="row">
+                    <p class="text-center" id="numberWin" style="color:white;margin-left: 220px;"></p>
+                </div>
+                </br>
+                <div class="row">
+                    <p class="text-center" style="color:yellow;margin-left: 180px;">Current Word</p>
+                </div>
+                <div class="row">
+                    <p class="text-center" id="currentWord" style="color:white;margin-left: 190px;"></p>
+                </div>
+                </br>
+                <div class="row">
+                    <p class="text-center" style="color:yellow;margin-left: 105px;">#number of guesses remaining
+                    </p>
+                </div>
+                <div class="row">
+                    <p class="text-center" id="numberGuessRn" style="color:white;margin-left: 210px;"></p>
+                </div>
+                </br>
+                <div class="row">
+                    <p class="text-center" style="color:yellow;margin-left: 150px;">Letter already guessed
+                    </p>
+                </div>
+                <div class="row">
+                    <p class="text-center" id="aGuess" style="color:white;margin-left: 150px;"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="assets/javascript/game.js"></script>
+</body>
+
+</html>

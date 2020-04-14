@@ -1,6 +1,6 @@
-WORD GUESS GAME - ADVANCED ASSIGNMENT #3
+# WORD GUESS GAME #
 
-In this assignment, A game call Word Guess has been created in the web browser.  The theme for this game is rock bands.
+A game call Word Guess has been created in the web browser.  The theme for this game is Rock Bands.
 
 
 1. If the word is "journey", it is initally displayed like this " _________" when the game starts.

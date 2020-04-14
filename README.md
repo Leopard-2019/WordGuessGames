@@ -2,7 +2,7 @@
 
 A game call Word Guess has been created in the web browser.  The theme for this game is Rock Bands.
 
-![](assets.images/WordGuess1.png)
+![](assets/images/WordGuess1.png)
 
 
 1. If the word is "journey", it is initally displayed like this " _________" when the game starts.

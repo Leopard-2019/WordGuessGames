@@ -1,6 +1,6 @@
 # WORD GUESS GAME #
 
-A game call Word Guess has been created in the web browser.  The theme for this game is Rock Bands.
+A game called Word Guess has been created in the web browser.  The theme for this game is Rock Bands.
 
 ![](assets/images/WordGuess1.png)
 

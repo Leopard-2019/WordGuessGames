@@ -18,6 +18,7 @@ A game called Word Guess has been created in the web browser.  The theme for thi
 3. If the word is correctly guessed, a video of the rock band is displayed.
 
    ![](assets/images/WordGuess4.png)
+   
 
 3. After the user wins/loses the game automatically chooses another word and make the user play it.
 

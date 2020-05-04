@@ -1,5 +1,7 @@
 # WORD GUESS GAME #
 
+This app is deployed at:  https://leopard-2019.github.io/WordGuessGames/
+
 A game called Word Guess has been created in the web browser.  The theme for this game is Rock Bands.
 
 ![](assets/images/WordGuess1.png)

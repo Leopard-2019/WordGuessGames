@@ -5,7 +5,7 @@ A game called Word Guess has been created in the web browser.  The theme for thi
 ![](assets/images/WordGuess1.png)
 
 
-1. If the word is "Chicago", it is initally displayed like this " _________" when the game starts.
+1. If the word is "Rush", it is initally displayed like this " _________" when the game starts.
 
    * As the user guesses the correct letters
   
@@ -14,6 +14,10 @@ A game called Word Guess has been created in the web browser.  The theme for thi
    guessed: (Letters the user has guessed, displayed like `J O N `).
    
    ![](assets/images/WordGuess2.png)
+   
+3. If the word is correctly guessed, a video of the rock band is displayed.
+
+   ![](assets/images/WordGuess4.png)
 
 3. After the user wins/loses the game automatically chooses another word and make the user play it.
 
